@@ -1,0 +1,55 @@
+h1 {
+    margin: 0;
+}
+body{
+  margin:0;
+  background-color: #F7F7FF;
+}
+.content{
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.banner{ 
+  background-color:#CCCCFF; 
+  padding-left: 8px;
+  padding-right: 8px;
+  height:120px;
+}
+nav{
+  padding-top: 8px;
+}
+#title{
+  color: #00;  
+  font: 40px Georgia; 
+  font-weight: bold; 
+  margin-left: 50px;
+  padding-left: 8px;
+}
+#logo{
+  float:left;
+  width:100px; 
+  height:100px;
+  padding-left:20px;
+padding-right:20px;
+  padding-top:8px;
+}
+table {
+  background: #CCCCFF;
+  border-collapse: collapse;
+  border: 3px solid black;
+}
+th, td {
+  border: 1px solid black;
+}
+tr.even {
+  background: #99FFCC;
+}
+footer{
+  height: 80px;
+  background-color: #CCCCFF;
+}
+.footer-text-left{
+  font-size: 18px;
+  padding-left: 10px;
+  float: left;
+}
